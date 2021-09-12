@@ -135,7 +135,7 @@
   line-height: 1.875rem;
 }
 
-.dados-email{
+.orcamento-dados span:nth-of-type(2){
   margin-bottom: 40px;
 }
 
