@@ -1,0 +1,48 @@
+.interna-portfolio{
+  background: url("../img/bg-portfolio.jpg") no-repeat center;
+  background-size: cover;
+}
+
+/* Missão */
+.missao-sobre{
+  padding-top: 60px;
+}
+
+.missao-sobre p{
+  font-size: 1.125rem;
+  line-height: 1.5625rem;
+  margin-bottom: 1em;
+  padding-right: 60px;
+}
+
+.missao-sobre ul li{
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 1.125rem;
+  line-height: 1.875rem;
+}
+
+.foto-equipe{
+  padding-top: 20px;
+}
+
+.quote-clientes{
+    padding: 60px 0;
+    margin: 0 auto;
+    max-width: 460px;
+}
+
+.quote-clientes p{
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  text-align: center;
+  font-size: 1.125rem;
+  line-height: 1.5625rem;
+  font-style: italic;
+  margin-bottom: 20px;
+}
+
+.quote-clientes cite{
+  font-size: 1.125rem;
+  font-weight: bold;
+  font-style: normal;
+  float: right;
+}
